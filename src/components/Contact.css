@@ -1,0 +1,16 @@
+.contact {
+  padding: 80px 50px;
+  background: #0d1117;
+  text-align: center;
+}
+
+.contact h2 {
+  color: #58a6ff;
+}
+
+.contact-links {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
